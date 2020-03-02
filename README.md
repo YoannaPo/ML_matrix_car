@@ -1,2 +1,3 @@
-# ML_matrix_car
-Car price forecasting
+# Car price forecasting
+
+Tasks performed during DataWorkshop matrix_two challenge
